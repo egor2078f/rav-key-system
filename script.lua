@@ -7,7 +7,7 @@ local KeySystem = {}
 -- ⚙️ НАСТРОЙКИ - ИЗМЕНИ ЭТО!
 local CONFIG = {
     BotURL = "https://t.me/YOUR_BOT_USERNAME", -- Замени на USERNAME своего бота!
-    APIEndpoint = "https://your-api.onrender.com/verify", -- Замени на свой API URL!
+    APIEndpoint = "https://web-production-785346.up.railway.app/", -- Замени на свой API URL!
     ScriptName = "RAV Script",
     Version = "1.0"
 }
